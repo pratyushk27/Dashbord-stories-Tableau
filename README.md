@@ -1,5 +1,5 @@
 # Welcome to my Tableau project repository!
-# Here, I present three interactive dashboards that analyze sales data from superstores, COVID-19 statistics, and crime rates.
+# Here, I present interactive dashboards that analyze sales data from superstores, COVID-19 statistics, and crime rates.
 # These dashboards aim to provide insights into various aspects of these domains and showcase my skills in data visualization and analysis using Tableau.
 
 # Objective:
