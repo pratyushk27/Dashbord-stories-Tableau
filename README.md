@@ -23,7 +23,8 @@
 * COVID-19 Dashboard: This dashboard presents COVID-19 statistics, including cases, deaths, and vaccination rates, allowing for comparisons across different regions and time periods.
 * Crime Rate Dashboard: This dashboard analyzes crime rate data, including types of crimes, geographical distribution, and temporal patterns.
 
-# View all my Tableau-Projects Dashboards on my Tableau Public Profile link - https://public.tableau.com/app/profile/pratyush.kumar7145/vizzes
+# View all my Tableau-Projects Dashboards on my Tableau Public Profile link
+- https://public.tableau.com/app/profile/pratyush.kumar7145/vizzes
 
 
 
