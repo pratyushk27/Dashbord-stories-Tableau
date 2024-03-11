@@ -21,7 +21,6 @@
 
 * Sales Dashboard: This dashboard focuses on analyzing sales data from superstores, including revenue trends, product performance, and regional insights.
 * COVID-19 Dashboard: This dashboard presents COVID-19 statistics, including cases, deaths, and vaccination rates, allowing for comparisons across different regions and time periods.
-* Crime Rate Dashboard: This dashboard analyzes crime rate data, including types of crimes, geographical distribution, and temporal patterns.
 
 # Feedback:
 
