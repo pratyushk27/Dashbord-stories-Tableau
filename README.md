@@ -21,6 +21,7 @@
 
 * Sales Dashboard: This dashboard focuses on analyzing sales data from superstores, including revenue trends, product performance, and regional insights.
 * COVID-19 Dashboard: This dashboard presents COVID-19 statistics, including cases, deaths, and vaccination rates, allowing for comparisons across different regions and time periods.
+* Netflix Dashboard : This dashboard is designed to analyze Netflix's content library and user engagement metrics. It includes insights into the performance of different genres, user preferences, viewing trends, and regional popularity of shows and movies.
 
 # Feedback:
 
